@@ -31,6 +31,6 @@
                 </configuration>
             </plugin>    
   	</plugins>
-    <finalName>firstapp</finalName>
+    <!--<finalName>firstapp</finalName-->
   </build>
 </project>
