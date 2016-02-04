@@ -10,7 +10,7 @@
   
 	<distributionManagement>
 		<snapshotRepository>
-			<id>snapshots</id>
+			<id>nexus</id>
 			<url>http://pc225846:8087/nexus/content/repositories/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
